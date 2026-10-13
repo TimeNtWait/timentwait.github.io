@@ -2,5 +2,5 @@
 # TimeNtWait (Ivan Chernykh)
 
 * **Occupation:** ML Researcher / Data Scientist
-* **Email:** imincome@example.com
-* * **Email:** time.nt.wait@example.com
+* **Email:** imincome@gmail.com
+* * **Email:** time.nt.wait@gmail.com
